@@ -1,6 +1,6 @@
 # A Hardhat solidity project
 
-This project is a blockchain based smart contracts projects, that runs smart contracts written in Solidity programming language, compiles them and deploys them using Hardhat, an Ethereum development environment
+This project is a blockchain based smart contracts projects, that runs smart contracts written in Solidity programming language, compiles and deploys them using Hardhat, an Ethereum development environment
 
 
 ```shell
