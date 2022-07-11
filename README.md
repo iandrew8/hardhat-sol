@@ -1,11 +1,13 @@
-# Sample Hardhat Project
+# A Hardhat solidity project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project is a blockchain based smart contracts projects, that runs smart contracts written in Solidity programming language, compiles and deploys them using Hardhat, an Ethereum development environment
 
-Try running some of the following tasks:
 
 ```shell
-npx hardhat help
+npm init
+npm install --save-dev hardhat
+npx hardhat 
+npx hardhat compile
 npx hardhat test
 GAS_REPORT=true npx hardhat test
 npx hardhat node
